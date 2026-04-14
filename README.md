@@ -1,6 +1,25 @@
-<h1 align="center">Hello World 👋, My name is Osama Sultan</h1>
-<h3 align="center">Junior Laravel Developer | Backend Development | REST APIs | PHP</h3>
-<br></br>
+<!-- - Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=407BFE&width=475&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Osama+Sultan" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- - Specialization -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=407BFE&width=720&lines=Backend+Developer+%7C+PHP+%26+Laravel+Specialist+%7C+API+Architect" alt="Typing SVG" />
+  </a>
+</h2>
+
+<!-- - Personal value -->
+<h6 align="center">
+  <samp>
+    「 Crafting secure, scalable backend architectures with a focus on Clean Code & Performance 」
+  </samp>
+</h6>
+
+<br/>
 
 
 <img align="right" alt="logo" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
@@ -66,8 +85,15 @@
 ---
 
 <h3 align="left">⚙️ Current Projects</h3>
+
 <p align="left">
--🏫
+
+- 🩺 **[bonyan-BMI-BMR-Project](https://github.com/osama-sultan-tech/bonyan-BMI-BMR-Project.git)** - This is the first task with Bonyan as part of the Laravel internship training.
+ 
+- 🧑🏻‍🎓 **[bonyan-StudyTrack-Project](https://github.com/osama-sultan-tech/bonyan-StudyTrack-Project.git)** - This is the second task with Bonyan Initiative as part of the Laravel internship training.
+ 
+
+
 
 
 <!-- - 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
